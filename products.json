@@ -1,0 +1,15 @@
+
+[
+  {
+    "name": "Maggi Instant Noodles",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Maggi_noodles_logo.png",
+    "ingredients": "Maida (Refined Wheat Flour), Edible Vegetable Oil, Salt, Spices and Condiments, Hydrolyzed Peanut Protein, Flavor Enhancers (E621, E635), Antioxidant (E306)",
+    "risks": "High in Sodium, Artificial Flavors, Preservatives, Not Suitable for Daily Consumption"
+  },
+  {
+    "name": "Lays Classic Salted",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Lays_Logo.png",
+    "ingredients": "Potatoes, Edible Vegetable Oil, Iodized Salt",
+    "risks": "High in Fat, Risk of Obesity, Excess Salt Consumption"
+  }
+]
